@@ -1,7 +1,7 @@
 window.onload = function () {
     let minutes = 0;
     let seconds = 0;
-    let tens = 00;
+    let tens = 0 ;
     let appendMinutes = document.querySelector('#minutes');
     let appendTens = document.querySelector('#tens');
     let appendSeconds = document.querySelector('#seconds');
